@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+/*　ページの背景設定　*/
+html{
+    height: 100vh;
+    background-color: rgb(205, 228, 249);
+    background-image: url(../images/index_background.jpg);
+    background-position: center center;
+    background-repeat: repeat;
+    overflow-y: scroll;
+}
