@@ -10,6 +10,10 @@ html{
     overflow-y: scroll;
 }
 
+p {
+    font-size: 20px;
+}
+
 /*　ページの設定　*/
 body {
     height: 100%;
@@ -27,4 +31,32 @@ body {
     width: 1024px;
     position: relative;
     margin: auto;
+}
+
+/* HPのタイトル */
+#siteTtl {
+    height: 30%;
+    width: 60%;
+    font-size: 60px;
+    float: left;
+    text-align: center;
+    margin: 10px ;
+
+}
+
+/* indexページのナビゲーション */
+#indexInfo {
+    height: 30%;
+    width: 60%;
+    float: left;
+    text-align:left;
+    margin: 10px 10px;
+
+}
+
+/* ロゴの設定 */
+.logo{
+    width: 30%;
+    height: 100%;
+
 }
