@@ -20,3 +20,11 @@ body {
     background-position: center top;
     justify-content: center;
 }
+
+/* ヘッダーやメインコンテンツ等が配置されるタブ */
+#main{
+    height: 100%;
+    width: 1024px;
+    position: relative;
+    margin: auto;
+}
