@@ -9,3 +9,14 @@ html{
     background-repeat: repeat;
     overflow-y: scroll;
 }
+
+/*　ページの設定　*/
+body {
+    height: 100%;
+    width: 100%;
+    font-family: "メイリオ", Meiryo;
+    padding: 0px;
+    margin: 0px;
+    background-position: center top;
+    justify-content: center;
+}
