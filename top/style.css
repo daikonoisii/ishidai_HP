@@ -25,6 +25,10 @@ body {
     justify-content: center;
 }
 
+header{
+    margin: 10px;
+}
+
 /* ヘッダーやメインコンテンツ等が配置されるタブ */
 #main{
     height: 100%;
@@ -80,7 +84,7 @@ body {
 
 /* 別サイトへ移動するボタン */
 .siteJumpButton{
-    width: 100%;
+    width: 1004px;
     height: 300px;
     margin: 10px;
     /*index_game_bg.jpgの色が濃すぎるので薄くする*/
