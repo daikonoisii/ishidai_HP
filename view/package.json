@@ -1,0 +1,17 @@
+{
+  "name": "view",
+  "version": "1.22.22",
+  "description": "\"ishidaiのホームページ\"",
+  "main": "src/app/index.js",
+  "repository": "https://github.com/daikonoisii/ishidai_HP",
+  "author": "ishidai",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.12.8",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
