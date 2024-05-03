@@ -2,7 +2,7 @@
 
 /*　ページの背景設定　*/
 html{
-    height: 100vh;
+    height: auto;
     background-color: rgb(205, 228, 249);
     background-image: url(../images/index_background.jpg);
     background-position: center center;
@@ -69,6 +69,11 @@ header{
     background-image: url(../images/index_game_bg1.jpg);
 }
 
+/*　掲載しているサイトのテーマ背景 ENEGIN*/
+#siteBackground2{
+    background-image: url(../images/index_game_bg2.jpg);
+}
+
 /* ロゴの設定 */
 .logo{
     width: 300px;
@@ -133,4 +138,13 @@ header{
     background-size: 100% 100%;
     font-family: 'Times New Roman', serif; 
 
+}
+
+/* サイト紹介文の背景(石板) */
+.stoneTablet {
+    color: #ffffff;
+    /* 石板テクスチャ */
+    background-image: url('../images/index_game_info_bg2.png'); 
+    background-size: 100% 100%;
+    font-family: 'Times New Roman', serif; 
 }
