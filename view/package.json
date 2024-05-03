@@ -6,6 +6,10 @@
   "repository": "https://github.com/daikonoisii/ishidai_HP",
   "author": "ishidai",
   "license": "MIT",
+
+  "scripts": {
+    "start": "node src/app/index.js"
+  },
   "devDependencies": {
     "@types/express": "^4.17.21",
     "@types/node": "^20.12.8",
